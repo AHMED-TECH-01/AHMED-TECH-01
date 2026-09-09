@@ -159,10 +159,10 @@ Healthcare Facility → Waste Generated → Waste Recorded → QR/Tracking
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-TECH-01&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-TECH-01&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
-</p> -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMED-TECH-01&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMED-TECH-01&theme=react&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-TECH-01&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
