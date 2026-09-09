@@ -26,14 +26,16 @@
 
 ---
 
-## 🧠 Featured Project
+## 🧠 Featured Projects
 
 ### 🏥 PharmaGuard
+**AI-Powered Pharmacy Inventory & Compliance Platform**
 
 An AI-powered **pharmacy inventory and compliance platform** built with **React Native, Expo, TypeScript, Node.js, Express.js, and Supabase**.
 
-Manage:
+**Built with:** `React Native` `Expo` `TypeScript` `Node.js` `Express.js` `Supabase`
 
+**Features**
 - 📷 AI Medicine Scanning
 - 💊 Medicine Inventory
 - ⏳ Expiry Tracking
@@ -43,9 +45,105 @@ Manage:
 - 🛡️ Pharmacy Compliance
 - 📱 Mobile-First Management (and also for Web)
 
+> **Scan. Track. Stay Compliant.**
+
 <p align="left">
   <a href="https://github.com/AHMED-TECH-01/Pharma-Guard">
     <img src="https://img.shields.io/badge/🚀%20PharmaGuard-AI%20Pharmacy%20Platform-16A34A?style=for-the-badge" alt="PharmaGuard"/>
+  </a>
+</p>
+
+<br/>
+
+### 📦 TradeDoc
+**AI Compliance Copilot for Global Trade**
+
+Upload your invoice, packing list, Letter of Credit, and Bill of Lading — TradeDoc uses AI to cross-check them and detect compliance discrepancies before they cause customs delays, bank fees, or LC rejection.
+
+**Built with:** `Next.js` `TypeScript` `Supabase` `PostgreSQL` `Gemini AI` `Tailwind CSS`
+
+**Features**
+- 🤖 AI-powered document analysis
+- 📄 OCR & structured data extraction
+- 🔍 Cross-document compliance checking
+- ⚠️ HS Code & quantity mismatch detection
+- 📅 Date & amount discrepancy detection
+- 📜 LC requirement validation
+- 📊 Compliance scoring
+- 📑 Automated compliance reports
+- 💬 AI compliance assistant
+- 🔐 Supabase Auth + PostgreSQL + RLS
+- 🚢 Shipment & document management
+
+> **Upload. Analyze. Detect. Comply.**
+
+<p align="left">
+  <a href="YOUR_DEPLOYMENT_URL">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Demo-2563EB?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_GITHUB_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/💻%20GitHub-18181B?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+### ♻️ MedWaste
+**Medical Waste Management SaaS Platform**
+
+A **medical waste management SaaS platform** that helps healthcare facilities track, manage, collect, and monitor biomedical waste while maintaining a complete digital compliance trail. MedWaste brings hospitals, clinics, laboratories, waste collectors, drivers, and regulatory authorities into one connected platform.
+
+**What it does**
+- 🏥 Manage hospitals and healthcare facilities
+- ♻️ Track medical waste inventory
+- 📦 Create and manage pickup requests
+- 🚚 Manage drivers and waste-collection vehicles
+- 🗺️ Plan routes and monitor live pickups
+- 🤖 Detect and classify medical waste using AI
+- 🧠 Ask an AI assistant about waste-management compliance
+- 🚨 Report and investigate waste-management incidents
+- 📋 Monitor compliance scores
+- 📊 Generate analytics and operational reports
+- 📜 Generate digital waste-collection certificates
+- 🏛️ Provide government-level monitoring and analytics
+- 📸 Allow public reporting of improperly dumped medical waste
+
+**Core Workflow**
+
+```
+Healthcare Facility → Waste Generated → Waste Recorded → QR/Tracking
+      → Pickup Requested → Driver Assigned → Waste Collected
+      → GPS + Photo Proof → Treatment Facility → Compliance Record
+```
+
+**Built With**
+
+| Layer | Stack |
+|---|---|
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express.js, REST API |
+| Database | PostgreSQL, Supabase, Row-Level Security |
+| AI | Gemini API |
+| Infrastructure | Supabase Storage, Google Maps API, Firebase Notifications |
+
+**Security**
+- 🔐 Authentication & RBAC
+- 🛡️ Row-Level Security
+- 🚦 API Rate Limiting
+- 🔒 Server-side secrets
+- 🌐 Strict CORS
+- ✅ Backend validation
+- 🧹 Input sanitization
+- 📁 Secure file uploads
+- 📝 Audit logging
+- 🔑 Tenant-level data isolation
+
+<p align="left">
+  <a href="YOUR_LIVE_DEMO_URL">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_GITHUB_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/Source%20Code-18181B?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 </p>
 
